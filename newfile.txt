@@ -1,2 +1,2 @@
-"this is "
+"this are some changes in newfile that are present only in remote master branch"
 "i have edited this file"
