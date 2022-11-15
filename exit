@@ -1,0 +1,68 @@
+[33mcommit 1612ead819aef777cd02da4ccc5810276900bd1c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lokesh Gulhane <lokeshgulhane9@gmail.com>
+Date:   Tue Nov 15 19:12:22 2022 +0530
+
+    newfile.txt changed in local master branch
+
+[33mcommit 380a6834b7d9059b7338c71d005957800ab6e3fe[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lokesh Gulhane <lokeshgulhane9@gmail.com>
+Date:   Tue Nov 15 19:10:41 2022 +0530
+
+    newfile.txt changed
+
+[33mcommit fd26bf5426f4e62716c262fd4424f7cb07fb4a2d[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: loki03031999 <60548481+loki03031999@users.noreply.github.com>
+Date:   Tue Nov 15 18:51:07 2022 +0530
+
+    Update newfile.txt
+
+[33mcommit 2057dd94b793fe910ef72692e5961eaad2c58ce5[m
+Merge: efb3d42 e36ae5d
+Author: loki03031999 <60548481+loki03031999@users.noreply.github.com>
+Date:   Tue Nov 15 17:10:17 2022 +0530
+
+    Merge pull request #1 from loki03031999/branch1
+    
+    Branch1
+
+[33mcommit e36ae5d7bfbd1fea60fe0d306d754c2d9c01f421[m
+Author: loki03031999 <60548481+loki03031999@users.noreply.github.com>
+Date:   Tue Nov 15 17:08:27 2022 +0530
+
+    Update newfile.txt
+
+[33mcommit 2c2b71161c415f8e7a148d3c56ecf95a4eb31b0e[m
+Author: loki03031999 <60548481+loki03031999@users.noreply.github.com>
+Date:   Tue Nov 15 17:07:38 2022 +0530
+
+    "added new file in branch1"
+
+[33mcommit efb3d4267e0a530896fc62a6c1af022c06d83aaa[m
+Author: loki03031999 <60548481+loki03031999@users.noreply.github.com>
+Date:   Tue Nov 15 14:01:34 2022 +0530
+
+    Update newfile.txt
+
+[33mcommit 60741e47fe4f245b1e05ec4719f2a2d403260507[m
+Author: Lokesh Gulhane <lokeshgulhane9@gmail.com>
+Date:   Tue Nov 15 14:00:27 2022 +0530
+
+    fourth commit
+
+[33mcommit 9243be46396e25ce904ef8f14c692bf55156017d[m
+Author: Lokesh Gulhane <lokeshgulhane9@gmail.com>
+Date:   Tue Nov 15 13:56:42 2022 +0530
+
+    third commit
+
+[33mcommit e74b0218b00377571bdc2e0e64727a81f2ca2147[m
+Author: Lokesh Gulhane <lokeshgulhane9@gmail.com>
+Date:   Tue Nov 15 13:54:16 2022 +0530
+
+    second commit
+
+[33mcommit 2ee5bc86536dead2f7dbbea3d3f0ebeb04572ad9[m
+Author: Lokesh Gulhane <lokeshgulhane9@gmail.com>
+Date:   Tue Nov 15 13:30:55 2022 +0530
+
+    first commit
